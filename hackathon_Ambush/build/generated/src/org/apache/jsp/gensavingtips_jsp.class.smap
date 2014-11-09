@@ -1,0 +1,14 @@
+SMAP
+gensavingtips_jsp.java
+JSP
+*S JSP
+*F
++ 0 gensavingtips.jsp
+gensavingtips.jsp
++ 1 header.jsp
+header.jsp
+*L
+1,50:49
+5#1,74:99
+50#0,126:172
+*E
